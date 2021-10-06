@@ -9,6 +9,6 @@ background-image: url("https://www.pngarts.com/files/6/Confetti-Transparent-Back
 }
 
 #card-element {
-  width: 100px;
-  height: 500px;
+  width: 50rem;
+  margin-top: 5%
 }
